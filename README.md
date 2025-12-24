@@ -1,4 +1,4 @@
-# EXP-3
+[# EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
@@ -48,3 +48,4 @@ Tabulation:2
 
 RESULT:
 Thus the staircase wiring is connected and tested.
+](https://github.com/Mvijay00/EXP-3)
